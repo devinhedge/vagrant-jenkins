@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Devin B. Hedge/Dropbox/vagrant-projects/debian-jenkins","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
